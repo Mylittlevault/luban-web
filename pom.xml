@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
@@ -5,8 +6,30 @@
   <artifactId>tuling-webapp</artifactId>
   <packaging>war</packaging>
   <version>1.0-snapshot</version>
-  <name>tuling-webapp Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+
+  <!--<repositories>
+    <repository>
+      <id>nexus-repository</id>
+      <name>nexus repository</name>
+      <url>http://192.168.137.1:8081/nexus/content/groups/public/</url>
+    </repository>
+  </repositories>
+
+  <distributionManagement>
+    <snapshotRepository>
+      <id>snapshotRepository</id>
+      <name>snapshot</name>
+      <url>http://192.168.137.1:8081/nexus/content/repositories/snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
+  <distributionManagement>
+    <snapshotRepository>
+      <id>snapshotRepository</id>
+      <name>snapshots</name>
+      <url>http://192.168.137.1:8081/nexus/content/repositories/snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -14,8 +37,32 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
-  <build>
-    <finalName>tuling-webapp</finalName>
-  </build>
-</project>
+  </dependencies>-->
+
+
+    <repositories>
+      <repository>
+        <id>nexus-repository</id>
+        <name>nexus repository</name>
+        <url>http://192.168.137.1:8081/nexus/content/groups/public/</url>
+      </repository>
+    </repositories>
+
+    <distributionManagement>
+      <snapshotRepository>
+        <id>snapshotRepository</id>
+        <name>snapshots</name>
+        <url>http://192.168.137.1:8081/nexus/content/repositories/snapshots/</url>
+      </snapshotRepository>
+    </distributionManagement>
+
+    <dependencies>
+
+      <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-webmvc</artifactId>
+        <version>5.2.6.RELEASE</version>
+      </dependency>
+    </dependencies>
+
+  </project>

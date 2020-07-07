@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2768d422-7fe4-4f89-a920-8bfe23e90b7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tuling-webapp.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tuling-webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tuling-webapp/index.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eJj5Vd2C08THtKtfvzhGwFWA4Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.38045976" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gant" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2768d422-7fe4-4f89-a920-8bfe23e90b7c" name="Default Changelist" comment="" />
+      <created>1594046406148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594046406148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="152" key="FileChooserDialogImpl" timestamp="1594046528551">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="465" y="152" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1594046528551" />
+    <state width="1273" height="188" key="GridCell.Tab.0.bottom" timestamp="1594084013643">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1273" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594084013643" />
+    <state width="1273" height="188" key="GridCell.Tab.0.center" timestamp="1594084013642">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1273" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1594084013642" />
+    <state width="1273" height="188" key="GridCell.Tab.0.left" timestamp="1594084013642">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1273" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1594084013642" />
+    <state width="1273" height="188" key="GridCell.Tab.0.right" timestamp="1594084013643">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1273" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1594084013643" />
+    <state x="188" y="0" key="SettingsEditor" timestamp="1594083559851">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="188" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1594083559851" />
+  </component>
+</project>
